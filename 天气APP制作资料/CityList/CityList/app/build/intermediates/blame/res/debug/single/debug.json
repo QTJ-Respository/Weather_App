@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CityList\\CityList\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_line.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\CityList\\CityList\\app\\src\\main\\res\\drawable-hdpi\\line.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CityList\\CityList\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_listitem_selector.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\CityList\\CityList\\app\\src\\main\\res\\drawable-hdpi\\listitem_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CityList\\CityList\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_search.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\CityList\\CityList\\app\\src\\main\\res\\drawable-hdpi\\icon_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CityList\\CityList\\app\\build\\intermediates\\res\\merged\\debug\\layout_city_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\CityList\\CityList\\app\\src\\main\\res\\layout\\city_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CityList\\CityList\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\CityList\\CityList\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CityList\\CityList\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search_bg.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\CityList\\CityList\\app\\src\\main\\res\\drawable-hdpi\\search_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CityList\\CityList\\app\\build\\intermediates\\res\\merged\\debug\\layout_citylist.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\CityList\\CityList\\app\\src\\main\\res\\layout\\citylist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\CityList\\CityList\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search_puin.9.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\CityList\\CityList\\app\\src\\main\\res\\drawable-hdpi\\search_puin.9.png"
+    }
+]

@@ -1,0 +1,4 @@
+#Mon Jan 08 10:03:55 GMT+08:00 2018
+base.0=C\:\\Users\\Administrator\\Desktop\\CityList\\CityList\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=C\:\\Users\\Administrator\\Desktop\\CityList\\CityList\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex

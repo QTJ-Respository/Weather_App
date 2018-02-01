@@ -1,0 +1,136 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* CityList\
+* CityList\.gradle\
+* CityList\.gradle\4.1\
+* CityList\.gradle\4.1\fileChanges\
+* CityList\.gradle\4.1\fileChanges\last-build.bin
+* CityList\.gradle\4.1\fileHashes\
+* CityList\.gradle\4.1\fileHashes\fileHashes.bin
+* CityList\.gradle\4.1\fileHashes\fileHashes.lock
+* CityList\.idea\
+* CityList\.idea\workspace.xml
+* CityList\CityList.iml
+* CityList\app\
+* CityList\app\build.gradle
+* CityList\app\src\
+* CityList\app\src\main\
+* CityList\app\src\main\AndroidManifest.xml
+* CityList\app\src\main\java\
+* CityList\app\src\main\java\com\
+* CityList\app\src\main\java\com\liucanwen\
+* CityList\app\src\main\java\com\liucanwen\citylist\
+* CityList\app\src\main\java\com\liucanwen\citylist\CityListActivity.java
+* CityList\app\src\main\java\com\liucanwen\citylist\adapter\
+* CityList\app\src\main\java\com\liucanwen\citylist\adapter\CityAdapter.java
+* CityList\app\src\main\java\com\liucanwen\citylist\data\
+* CityList\app\src\main\java\com\liucanwen\citylist\data\CityData.java
+* CityList\app\src\main\java\com\liucanwen\citylist\model\
+* CityList\app\src\main\java\com\liucanwen\citylist\model\CityItem.java
+* CityList\app\src\main\java\com\liucanwen\citylist\widget\
+* CityList\app\src\main\java\com\liucanwen\citylist\widget\ContactItemComparator.java
+* CityList\app\src\main\java\com\liucanwen\citylist\widget\ContactItemException.java
+* CityList\app\src\main\java\com\liucanwen\citylist\widget\ContactItemInterface.java
+* CityList\app\src\main\java\com\liucanwen\citylist\widget\ContactListAdapter.java
+* CityList\app\src\main\java\com\liucanwen\citylist\widget\ContactListView.java
+* CityList\app\src\main\java\com\liucanwen\citylist\widget\ContactListViewImpl.java
+* CityList\app\src\main\java\com\liucanwen\citylist\widget\ContactsSectionIndexer.java
+* CityList\app\src\main\java\com\liucanwen\citylist\widget\IndexScroller.java
+* CityList\app\src\main\java\com\liucanwen\citylist\widget\pinyin\
+* CityList\app\src\main\java\com\liucanwen\citylist\widget\pinyin\HanziToPinyin3.java
+* CityList\app\src\main\java\com\liucanwen\citylist\widget\pinyin\PinYin.java
+* CityList\app\src\main\res\
+* CityList\app\src\main\res\drawable-hdpi\
+* CityList\app\src\main\res\drawable-hdpi\icon_search.png
+* CityList\app\src\main\res\drawable-hdpi\line.9.png
+* CityList\app\src\main\res\drawable-hdpi\listitem_selector.xml
+* CityList\app\src\main\res\drawable-hdpi\search_bg.9.png
+* CityList\app\src\main\res\drawable-hdpi\search_puin.9.png
+* CityList\app\src\main\res\layout\
+* CityList\app\src\main\res\layout\city_item.xml
+* CityList\app\src\main\res\layout\citylist.xml
+* CityList\app\src\main\res\menu\
+* CityList\app\src\main\res\menu\main.xml
+* CityList\app\src\main\res\values-sw600dp\
+* CityList\app\src\main\res\values-sw600dp\dimens.xml
+* CityList\app\src\main\res\values-sw720dp-land\
+* CityList\app\src\main\res\values-sw720dp-land\dimens.xml
+* CityList\app\src\main\res\values-v11\
+* CityList\app\src\main\res\values-v11\styles.xml
+* CityList\app\src\main\res\values-v14\
+* CityList\app\src\main\res\values-v14\styles.xml
+* CityList\app\src\main\res\values\
+* CityList\app\src\main\res\values\color.xml
+* CityList\app\src\main\res\values\dimens.xml
+* CityList\app\src\main\res\values\strings.xml
+* CityList\app\src\main\res\values\styles.xml
+* CityList\build.gradle
+* CityList\gradle\
+* CityList\gradle\wrapper\
+* CityList\gradle\wrapper\gradle-wrapper.jar
+* CityList\gradle\wrapper\gradle-wrapper.properties
+* CityList\gradlew
+* CityList\gradlew.bat
+* CityList\import-summary.txt
+* CityList\local.properties
+* CityList\settings.gradle
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:19.+
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Missing Android Support Repository:
+-----------------------------------
+Some useful libraries, such as the Android Support Library, are
+installed from a special Maven repository, which should be installed
+via the SDK manager.
+
+It looks like this library is missing from your SDK installation at:
+E:\android-sdk
+
+To install it, open the SDK manager, and in the Extras category,
+select "Android Support Repository". You may also want to install the
+"Google Repository" if you want to use libraries like Google Play
+Services.
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
